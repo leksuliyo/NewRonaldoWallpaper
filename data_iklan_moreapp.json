@@ -4,7 +4,7 @@
  {
     "id":1,
     "judul":"MP3 Multi Ads",
-    "image":"https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-0/p480x480/93246195_261157725277574_1720625595982807040_o.jpg?_nc_cat=100&_nc_sid=8024bb&_nc_ohc=gj_-fnOMejsAX8UrpYJ&_nc_ht=scontent.fcgk18-2.fna&_nc_tp=6&oh=c0e202f460488b7bcbe07224c97a2412&oe=5EC24A79",
+    "image":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3d6a0073883411.5c18d2b9b00ed.jpg",
     "link":"https://www.facebook.com/aliendroidstudio/posts/261159425277404"
   },
   {
@@ -47,7 +47,7 @@
         "fan_banner": "981545408591412_1153592198053398",
       
         "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
-        "interval": 2,
+        "interval": 3,
         "version_app":1,
         "hpk":"asuransi, keuangan, pendidikan, dll"
 
